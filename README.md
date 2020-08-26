@@ -1,6 +1,6 @@
 # NextLevelWeek
 Projeto realizado com a Rocketseat referente a HTML, CSS e JS
-....................................................................
+
 
 Finalidade? 
 - Projeto foi criado com foco na aprendizagem do HTML, CSS e Java Script. O projeto em sí consiste em uma plataforma de aulas online, onde o usuário pode optar por assistir aulas e dar aulas. Dessa forma foi possível utilizar HTML, CSS e JS dentro do projeto por se tratar de uma aplicação Web interativa e eficaz. 
